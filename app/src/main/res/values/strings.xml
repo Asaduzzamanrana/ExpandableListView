@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+
+    <string name="robin">রবীন্দ্রনাথ ঠাকুর</string>
+    <string name="kazi">কাজী নজরুল ইসলাম</string>
+    <string name="jashim">জসীম উদ্দীন</string>
+    <string name="micel">মাইকেল মধুসূদন দত্ত</string>
+    <string name="jibon">জীবনানন্দ দাশ</string>
+    <string name="issor">ঈশ্বরচন্দ্র গুপ্ত</string>
+    <string name="kaykobad">কায়কোবাদ</string>
+    <string name="suku">সুকুমার রায়</string>
+    <string name="sukanto">সুকান্ত ভট্টাচার্য</string>
+    <string name="soten">সত্যেন্দ্রনাথ দত্ত</string>
+
+
+    <string name="robinji">রবীন্দ্রনাথ ঠাকুর জীবনী</string>
+    <string name="kaziji">কাজী নজরুল ইসলাম জীবনী</string>
+    <string name="jashimji">জসীম উদ্দীন জীবনী</string>
+    <string name="micelji">মাইকেল মধুসূদন দত্ত জীবনী</string>
+    <string name="jibonji">জীবনানন্দ দাশ জীবনী</string>
+    <string name="issorji">ঈশ্বরচন্দ্র গুপ্ত জীবনী</string>
+    <string name="kaykobadji">কায়কোবাদ জীবনী</string>
+    <string name="sukuji">সুকুমার রায় জীবনী</string>
+    <string name="sukantoji">সুকান্ত ভট্টাচার্য জীবনী</string>
+    <string name="sotenji">সত্যেন্দ্রনাথ দত্ত জীবনী</string>
+
+
+    <string name="robilist">রবীন্দ্রনাথ ঠাকুরের কবিতা সমগ্র</string>
+    <string name="kazilist">কাজী নজরুল ইসলাম কবিতা সমগ্র</string>
+    <string name="jashimlist">জসীম উদ্দীন কবিতা সমগ্র</string>
+    <string name="micellist">মাইকেল মধুসূদন দত্ত কবিতা সমগ্র</string>
+    <string name="jibonlist">জীবনানন্দ দাশ কবিতা সমগ্র</string>
+    <string name="issorlist">ঈশ্বরচন্দ্র গুপ্ত কবিতা সমগ্র</string>
+    <string name="kaykobadlist">কায়কোবাদ কবিতা সমগ্র</string>
+    <string name="sukulist">সুকুমার রায় কবিতা সমগ্র</string>
+    <string name="sukantolist">সুকান্ত ভট্টাচার্য কবিতা সমগ্র</string>
+    <string name="sotenlist">সত্যেন্দ্রনাথ দত্ত কবিতা সমগ্র</string>
+
+    <string-array name="kobi_name">
+        <item>রবীন্দ্রনাথ ঠাকুর</item>
+        <item>কাজী নজরুল ইসলাম</item>
+        <item>জসীম উদ্দীন</item>
+        <item>মাইকেল মধুসূদন দত্ত</item>
+        <item>জীবনানন্দ দাশ</item>
+        <item>ঈশ্বরচন্দ্র গুপ্ত</item>
+        <item>কায়কোবাদ</item>
+        <item>সুকুমার রায়</item>
+        <item>সুকান্ত ভট্টাচার্য </item>
+        <item>সত্যেন্দ্রনাথ দত্ত</item>
+    </string-array>
+
+    <string-array name="kobita_name">
+        <item>রবীন্দ্রনাথ ঠাকুরের কবিতা সমগ্র</item>
+        <item>কাজী নজরুল ইসলাম কবিতা সমগ্র</item>
+        <item>জসীম উদ্দীন কবিতা সমগ্র</item>
+        <item>মাইকেল মধুসূদন দত্ত কবিতা সমগ্র</item>
+        <item>জীবনানন্দ দাশ কবিতা সমগ্র</item>
+        <item>ঈশ্বরচন্দ্র গুপ্ত কবিতা সমগ্র</item>
+        <item>কায়কোবাদ কবিতা সমগ্র</item>
+        <item>সুকুমার রায় কবিতা সমগ্র</item>
+        <item>সুকান্ত ভট্টাচার্য কবিতা সমগ্র</item>
+        <item>সত্যেন্দ্রনাথ দত্ত কবিতা সমগ্র</item>
+    </string-array>
+
+    <string-array name="jiboni">
+        <item>রবীন্দ্রনাথ ঠাকুরের সমগ্র</item>
+        <item>কাজী নজরুল ইসলাম সমগ্র</item>
+        <item>জসীম উদ্দীন সমগ্র</item>
+        <item>মাইকেল মধুসূদন দত্ত সমগ্র</item>
+        <item>জীবনানন্দ দাশ সমগ্র</item>
+        <item>ঈশ্বরচন্দ্র গুপ্ত সমগ্র</item>
+        <item>কায়কোবাদ সমগ্র</item>
+        <item>সুকুমার রায় সমগ্র</item>
+        <item>সুকান্ত ভট্টাচার্য সমগ্র</item>
+        <item>সত্যেন্দ্রনাথ দত্ত সমগ্র</item>
+    </string-array>
+
+</resources>
